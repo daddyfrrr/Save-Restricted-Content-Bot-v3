@@ -20,9 +20,9 @@ YTUB_COOKIES = """
 API_ID = os.getenv("API_ID", "25255466")
 API_HASH = os.getenv("API_HASH", "aa797f1169fb6bbee3de4869d6b76165")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "")
-MONGO_DB = os.getenv("MONGO_DB", "mongodb+srv://vuwuvuly:WYZ2A7LSrUMcwWfs@cluster0.0zy3uk3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB = os.getenv("MONGO_DB", "mongodb+srv://magova4048:yT7D4gPAggGSRySe@cluster0.vh5qgb5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 OWNER_ID = list(map(int, os.getenv("OWNER_ID", "7877249692").split())) # list seperated via space
-DB_NAME = os.getenv("DB_NAME", "vuwuvuly")
+DB_NAME = os.getenv("DB_NAME", "magova4048")
 STRING = os.getenv("STRING", None) # optional
 LOG_GROUP = int(os.getenv("LOG_GROUP", "-1002542800168")) # optional with -100
 FORCE_SUB = int(os.getenv("FORCE_SUB", "-1002542800168")) # optional with -100
